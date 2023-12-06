@@ -4,6 +4,8 @@ URL = "mongodb+srv://abhishek:abhishek123@filamentai.dgbcetm.mongodb.net/Intelli
 DATABASE_NAME = "Intelligent_Travelling"
 COLLECTION_NAME = "User"
 
+# comments
+
 
 def fetch_user_name(email):
     try:

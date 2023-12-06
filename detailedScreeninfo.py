@@ -22,9 +22,7 @@ def extract_city_info(json_data, target_city):
                 return city_info
     print(f"City '{target_city}' not found.")
 
-
-
-
+# Thakur College of science and commerce
 
 # it is used to extact info of particular citie's touristspot from json 
 def extract_tourist_spot_info(json_data, target_city, target_spot):
